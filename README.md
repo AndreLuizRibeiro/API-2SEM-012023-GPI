@@ -31,7 +31,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Equipe
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API-2SEM-012023-GPI/blob/main/Sprint%201/imagem/equipe.png" width="50%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-2SEM-012023-GPI/blob/main/Sprint%201/imagem/equipe.png" width="70%"/>
 </p>
 
 # Objetivo do Projeto
@@ -74,12 +74,12 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 
 ## Backlog do produto
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%204/imagem/link%20remoto.png" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-2SEM-012023-GPI/blob/main/Sprint%201/imagem/backlog.png" width="80%"/>
 </p>
 
 ## Burndown
 <p align="center">
- <img src="https://github.com/AndreLuizRibeiro/API/blob/main/Sprint%202/imagem/checklist.png" width="100%"/>
+ <img src="https://github.com/AndreLuizRibeiro/API-2SEM-012023-GPI/blob/main/Sprint%201/imagem/burndown.png" width="80%"/>
 </p>
 
 ## Sprint 1 - Concepção
