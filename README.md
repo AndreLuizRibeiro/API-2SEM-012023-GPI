@@ -26,7 +26,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Micro Certificações
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green" width="40%"/>
 </p>
 
 # Equipe
