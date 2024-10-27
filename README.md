@@ -1,4 +1,4 @@
-# Aprendizado por Projeto Integrado (API) - Template
+# Aprendizado por Projeto Integrado (API)
 Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
 
 # Índice
@@ -15,7 +15,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Neste semestre estamos prestando uma consultoria para uma empresa que produz equipamentos de gravação a laser, trabalhando com venda direta do equipamento ou o eluguel do mesmo.
+Neste semestre estamos prestando uma consultoria para uma empresa que produz equipamentos de gravação a laser, trabalhando com venda direta do equipamento ou aluguel do mesmo.
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
